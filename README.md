@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Student at Rochester Institute of Technology<br>Working on: writing red-team tools and finding bug
+Student at Rochester Institute of Technology<br>Working on: writing red-team tools and finding bug bounties
 
 
 ## 🌐 Socials:
